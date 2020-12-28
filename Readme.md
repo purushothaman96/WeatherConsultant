@@ -1,5 +1,4 @@
 # Weather Consultant
-
 This project is to showcase my learning with UIPathStudio to build a robot.
 
 The weather consultant robot will display the weather and temperature in a particular city entered by the user and suggest type of cloth to wear.
